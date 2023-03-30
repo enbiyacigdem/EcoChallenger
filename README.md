@@ -12,7 +12,8 @@ Additional components: Firebase and Google Play Games Services integration (feat
 ### Backend
 Technology: Firebase
 Responsibility: Manage the application's database, authentication, and server-side processes, provide secure and scalable infrastructure.
-### Additional components: Google Play Games Services integration (management of multiplayer features).
+
+Additional components: Google Play Games Services integration (management of multiplayer features).
 
 ## Core Technologies and Tools
 Flutter: Provides cross-platform app development and delivers a user-friendly interface.
