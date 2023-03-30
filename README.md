@@ -5,23 +5,33 @@ EcoChallenger is a platform that aims to help users adopt eco-friendly and susta
 
 ## Architecture
 The EcoChallenger project incorporates various technologies and components to provide an effective and user-friendly experience:
+
 ### Frontend
-Technology: Flutter
-Responsibility: Provide user interface and experience, develop an app that can run on both Android and iOS devices for cross-platform compatibility.
+**Technology:** Flutter
+
+**Responsibility:** Provide user interface and experience, develop an app that can run on both Android and iOS devices for cross-platform compatibility.
 Additional components: Firebase and Google Play Games Services integration (features like authentication, achievements, and leaderboards), Google Analytics integration (analyze user interactions and app usage statistics).
+
 ### Backend
-Technology: Firebase
-Responsibility: Manage the application's database, authentication, and server-side processes, provide secure and scalable infrastructure.
+**Technology:** Firebase
+
+**Responsibility:** Manage the application's database, authentication, and server-side processes, provide secure and scalable infrastructure.
 
 Additional components: Google Play Games Services integration (management of multiplayer features).
 
 ## Core Technologies and Tools
-Flutter: Provides cross-platform app development and delivers a user-friendly interface.
-Dart: The main programming language used with Flutter, employed for user interface and business logic.
-Firebase: Acts as the backend infrastructure, offering database, authentication, and analytics features.
-Google Analytics: Utilized for analyzing user interactions and app usage statistics.
-Google Play Games Services: Facilitates the integration of achievements, leaderboards, and multiplayer features.
+**Flutter:** Provides cross-platform app development and delivers a user-friendly interface.
+
+**Dart:** The main programming language used with Flutter, employed for user interface and business logic.
+
+**Firebase:** Acts as the backend infrastructure, offering database, authentication, and analytics features.
+
+**Google Analytics:** Utilized for analyzing user interactions and app usage statistics.
+
+**Google Play Games Services:** Facilitates the integration of achievements, leaderboards, and multiplayer features.
+
 These technologies and components ensure the EcoChallenger project operates successfully and offers users an interactive and user-friendly experience.
+
 ## Installation
 To run the EcoChallenger project in your local environment, follow these steps:
 1.	Download and install the Flutter SDK and Dart SDK.
