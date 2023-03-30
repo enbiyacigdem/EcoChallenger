@@ -1,9 +1,7 @@
 # EcoChallenger
 EcoChallenger is a platform that aims to help users adopt eco-friendly and sustainable living habits and raise awareness. The goal of our project is to contribute to the reduction of the global ecological footprint and promote environmentally friendly practices.
 
-![alt text](http://url/to/img.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
+![alt text](https://github.com/enbiyacigdem/EcoChallenger/blob/main/ecochallenger.jpg?raw=true)
 
 ## Architecture
 The EcoChallenger project incorporates various technologies and components to provide an effective and user-friendly experience:
@@ -38,9 +36,12 @@ If you would like to contribute to EcoChallenger, please do the following:
 3.	Commit your changes and push to your branch.
 4.	Create a "Pull Request" to the main repository (this repo).
 We are looking forward to your contributions!
-—License
+
+## License
 EcoChallenger is licensed under the MIT License.
-—Contact
+
+## Contact
 For questions, suggestions, or feedback, please go to the "Issues" section on the main page of the project and open a new "Issue". Additionally, if you want to get in touch with the team developing the project, you can reach us through the email addresses or social media accounts specified in the README file.
 EcoChallenger project awaits the participation and support of everyone working towards a more sustainable world. Contributors to the project provide valuable input to our shared vision of creating a more livable world.
-Together, we can reduce the global ecological footprint by adopting eco-friendly and sustainable living habits and make the future of our world brighter.
+
+#### Together, we can reduce the global ecological footprint by adopting eco-friendly and sustainable living habits and make the future of our world brighter.
